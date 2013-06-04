@@ -1,4 +1,4 @@
-SBHS Belltime Countdown for Android
+Test SBHS Belltime Countdown for Android
 ==============
 Coded by Jerry Yip
 
