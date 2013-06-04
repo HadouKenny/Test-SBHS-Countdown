@@ -4,15 +4,16 @@ Coded by Jerry Yip
 
 Ported by Kenny Liu
 
-Compile checklist:
+<b>2.8 compile checklist</b>
 
-[x] Remove debug line
+[ ] Complete changed belltimes sync
 
-[ ] Edit FAQ
+[ ] Work on reducing file size to 1mb if possible
 
-[ ] Font snippet in index
+<b>General checklist</b>
 
-[ ] Get PushLink working (optional)
+- Change version number in index.html<br>var appVersion = "<b>version #</b>";<br>ga_storage._trackPageview('/<b>version #</b>-index.html');
 
+- Change version number in faq.html<br>ga_storage._trackPageview('/<b>version #</b>-faq.html');<br>App Info FAQ box version#
 
-Almost ready for release
+- Change version number in config.xml<br>version   = "<b>version #</b>"
